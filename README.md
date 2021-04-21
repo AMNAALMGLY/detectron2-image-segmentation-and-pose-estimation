@@ -6,3 +6,5 @@ loads a Mask R-CNN model with a ResNet-50-FPN backbone pre-trained on the COCO d
 ![alt text](https://github.com/AMNAALMGLY/detectron2-image-segmentation-and-pose-estimation/blob/main/detectron1.png?raw=true)
 # Part B: Run a pre-trained model for pose estimation
 the same as A but for pose estimation task
+![alt text](https://github.com/AMNAALMGLY/detectron2-image-segmentation-and-pose-estimation/blob/main/detectron2.png?raw=true)
+-[comments on model behavior]
